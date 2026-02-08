@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/kunal/Developer/DSA/75blind/climbing-stairs'
+relocations:     []
+...
